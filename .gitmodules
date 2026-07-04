@@ -4,6 +4,6 @@
 [submodule "Website_2"]
 	path = Website_2
 	url = https://github.com/Nick-Trigger/website2.git
-[submodule "Website_3"]
+[submodule "Website_3 (Active)"]
 	path = Website_3
 	url = https://github.com/Nick-Trigger/WebsiteV3-React.git
